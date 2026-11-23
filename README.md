@@ -62,4 +62,4 @@ This analysis uses observational data and identifies associations rather than ca
 
 ## Conclusion
 
-Appointment lead time showed the largest differences in no-show rates among the factors examined. Age, SMS receipt, and neighborhood also revealed differences in attendance patterns, while weekday differences were relatively small. These findings highlight areas for further investigation
+Appointment lead time showed the largest differences in no-show rates among the factors examined. Age, SMS receipt, and neighborhood also revealed differences in attendance patterns, while weekday differences were relatively small. These findings highlight areas for further investigation.
