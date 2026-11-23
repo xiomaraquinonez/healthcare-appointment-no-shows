@@ -53,7 +53,7 @@ The original dataset is not included in this repository. To run the notebook, do
 1. Cleaned and prepared appointment records, including handling inconsistent dates and invalid age values.
 2. Conducted exploratory data analysis using Python and pandas.
 3. Used SQL queries and aggregations to investigate attendance patterns across different factors.
-4. Created visualizations in Python and developed an interactive Tableau dashboard.
+4. Created visualizations in Python and developed a Tableau dashboard combining four visualizations of appointment no-show patterns.
 5. Summarized findings and developed recommendations for further investigation.
 
 ## Limitations
