@@ -43,6 +43,7 @@ The goal is to identify patterns that could help healthcare organizations better
 ## Dataset
 
 The dataset is the Medical Appointment No Shows dataset from Kaggle:
+
 [Medical Appointment No Shows – Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
 
 The original dataset is not included in this repository. To run the notebook, download `KaggleV2-May-2016.csv` from Kaggle and place it in the same directory as the notebook.
